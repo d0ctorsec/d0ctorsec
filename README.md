@@ -1,89 +1,87 @@
 <div align="center">
 
-<pre>
-┌─[ d0ctorsec@github ]
-└──╼ whoami
-security researcher / code audit / edge asset mining / cloud exposure hunting
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=24,12,30,2,18&text=d0ctorsec&fontColor=00ff41&fontAlignY=38&desc=Security%20Research%20%7C%20Code%20Audit%20%7C%20Edge%20Asset%20Mining&descAlignY=58&animation=fadeIn" alt="header" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=960&lines=root%40github%3A~%23+whoami;d0ctorsec+%2F+security+researcher;root%40github%3A~%23+cat+focus.txt;code+audit+%7C+edge+assets+%7C+cloud+exposure;root%40github%3A~%23+echo+%24MOTTO;No+noise.+Just+research." alt="typing" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Web%20Security-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Java%20Audit-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hunting-Edge%20Assets-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Target-Cloud%20Buckets-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code%20Audit-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41&labelColor=0d1117" alt="code audit" />
+  <img src="https://img.shields.io/badge/Edge%20Assets-0d1117?style=for-the-badge&logo=radar&logoColor=00ff41&labelColor=0d1117" alt="edge assets" />
 </p>
-
-<p><code>collect -&gt; correlate -&gt; validate -&gt; audit -&gt; reproduce</code></p>
 
 </div>
 
-## 0x00 About
+```text
+root@github:~# whoami
+d0ctorsec
 
-我是 `d0ctorsec`，主要关注这些方向：
+root@github:~# cat focus.txt
+code audit
+java security
+edge assets
+cloud exposure
+```
 
-- Web 安全与代码审计
-- Java 漏洞分析与内存马复现
-- 信息收集与边缘资产挖掘
-- 云存储暴露面发现与关联分析
-
-更偏爱两类事情：
-
-- 把零散笔记整理成能落地的实战链路
-- 把复杂问题拆成可复现、可验证、可直接上手的方法
+## 0x00 Terminal
 
 > 反者道之动，弱者道之用。
 
-## 0x01 Current Focus
-
 ```text
-Information Collection
-Edge Asset Mining
-Bucket Enumeration
-Java Code Audit
-Memshell Recurrence
+research -> validate -> reproduce
 ```
 
-## 0x02 Selected Projects
+## 0x01 Telemetry
 
-### [WebGoatVulnerabilityRangeCodeAudit](https://github.com/d0ctorsec/WebGoatVulnerabilityRangeCodeAudit)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=d0ctorsec&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&ring_color=00ff41&locale=en" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ctorsec&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=c9d1d9&locale=en" alt="top languages" />
+</p>
 
-围绕 `WebGoat 8.x` 的系统化代码审计笔记，按从易到难的顺序拆解常见漏洞，适合从 `JavaSE` 过渡到真实审计。
+## 0x02 Arsenal
 
-### [BucketHunter](https://github.com/d0ctorsec/BucketHunter)
+<p>
+  <img src="https://img.shields.io/badge/focus-code%20audit-0d1117?style=flat-square&logoColor=00ff41&color=151b23" alt="focus code audit" />
+  <img src="https://img.shields.io/badge/focus-edge%20assets-0d1117?style=flat-square&logoColor=00ff41&color=151b23" alt="focus edge assets" />
+  <img src="https://img.shields.io/badge/focus-cloud%20exposure-0d1117?style=flat-square&logoColor=00ff41&color=151b23" alt="focus cloud exposure" />
+  <img src="https://img.shields.io/badge/focus-memshell%20research-0d1117?style=flat-square&logoColor=00ff41&color=151b23" alt="focus memshell research" />
+</p>
 
-面向 `AWS S3 / OSS / COS / OBS` 的交互式存储桶枚举工具，支持字典生成、批量扫描与 AI 结果研判。
+<p>
+  <img src="https://img.shields.io/badge/stack-go-0d1117?style=flat-square&logo=go&logoColor=00ff41&color=151b23" alt="stack go" />
+  <img src="https://img.shields.io/badge/stack-java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff41&color=151b23" alt="stack java" />
+  <img src="https://img.shields.io/badge/stack-python-0d1117?style=flat-square&logo=python&logoColor=00ff41&color=151b23" alt="stack python" />
+  <img src="https://img.shields.io/badge/stack-github%20actions-0d1117?style=flat-square&logo=githubactions&logoColor=00ff41&color=151b23" alt="stack github actions" />
+</p>
 
-### [InformationCollectionEdgeAssetsMining](https://github.com/d0ctorsec/InformationCollectionEdgeAssetsMining)
+## 0x03 Selected Ops
 
-一套偏实战的信息收集与边缘资产挖掘方法论，覆盖企业信息、域名、子域、IP、云桶、APP 与敏感信息发现。
+- [![WebGoat Audit](https://img.shields.io/badge/WebGoat%20Audit-Open-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/d0ctorsec/WebGoatVulnerabilityRangeCodeAudit)
+  WebGoat 8.x audit path.
 
-### [LearnJavaMemshellFromZero-Recurrence](https://github.com/d0ctorsec/LearnJavaMemshellFromZero-Recurrence)
+- [![BucketHunter](https://img.shields.io/badge/BucketHunter-Open-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/d0ctorsec/BucketHunter)
+  Multi-cloud bucket hunting.
 
-从 0 到 1 复现并重组 Java 内存马学习路径，在复现基础上补充更多思路、分类和扩展场景。
+- [![Edge Assets Mining](https://img.shields.io/badge/Edge%20Assets%20Mining-Open-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/d0ctorsec/InformationCollectionEdgeAssetsMining)
+  Recon and asset workflow.
 
-## 0x03 Methodology
+- [![Java Memshell](https://img.shields.io/badge/Java%20Memshell-Open-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/d0ctorsec/LearnJavaMemshellFromZero-Recurrence)
+  Java memshell study path.
+
+## 0x04 Live Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d0ctorsec/d0ctorsec/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d0ctorsec/d0ctorsec/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/d0ctorsec/d0ctorsec/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+## 0x05 Method
 
 ```text
-collect -> correlate -> validate -> reproduce -> summarize
+collect -> correlate -> validate -> audit -> reproduce -> summarize
 ```
 
-- 不只看结论，更重视完整链路
-- 不只做复现，更在意为什么成立
-- 不追求堆砌工具，更关注真实有效的方法
-- 尽量把研究沉淀成公开笔记或可用工具
-
-## 0x04 Interests
-
-如果你也在关注这些内容，欢迎交流：
-
-- 资产发现
-- 云存储暴露面
-- Java 安全研究
-- 代码审计与漏洞复现
-
----
-
 ```text
-No noise.
-Just research.
+root@github:~# exit
+[ok] session closed
 ```
