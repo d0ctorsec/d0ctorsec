@@ -7,9 +7,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Da__Shi__De__Xue__Tu-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat" />
   <br /><br />
-  <a href="https://xz.aliyun.com/users/121771/news">
-    <img src="https://img.shields.io/badge/%E5%85%88%E7%9F%A5-%E6%89%8B%E6%9C%AF%E5%88%80%20-0d1117?style=for-the-badge&logo=alibabacloud&logoColor=ff6a00" 
-alt="xianzhi" />
+  <a href="https://ssdsec.com/">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-ssdsec.com-07C160?style=for-the-badge&logo=googlechrome&logoColor=white" 
+alt="blog" />
   </a>
   <br /><br />
   <a href="https://x.com/TarDac36529">
